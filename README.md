@@ -9,3 +9,5 @@ Tiffany Xiao
 
 ## About this Repository
 This repository contains the coding project requested by Codeacademy. The project is centered around an A/B test for a client. 
+
+Check out codecademy [here](https://www.codecademy.com/learn)!
